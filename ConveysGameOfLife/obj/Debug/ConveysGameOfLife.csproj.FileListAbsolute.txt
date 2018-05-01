@@ -1,0 +1,6 @@
+c:\users\yarko\documents\visual studio 2013\Projects\ConveysGameOfLife\ConveysGameOfLife\bin\Debug\ConveysGameOfLife.exe.config
+c:\users\yarko\documents\visual studio 2013\Projects\ConveysGameOfLife\ConveysGameOfLife\bin\Debug\ConveysGameOfLife.exe
+c:\users\yarko\documents\visual studio 2013\Projects\ConveysGameOfLife\ConveysGameOfLife\bin\Debug\ConveysGameOfLife.pdb
+c:\users\yarko\documents\visual studio 2013\Projects\ConveysGameOfLife\ConveysGameOfLife\obj\Debug\ConveysGameOfLife.csprojResolveAssemblyReference.cache
+c:\users\yarko\documents\visual studio 2013\Projects\ConveysGameOfLife\ConveysGameOfLife\obj\Debug\ConveysGameOfLife.exe
+c:\users\yarko\documents\visual studio 2013\Projects\ConveysGameOfLife\ConveysGameOfLife\obj\Debug\ConveysGameOfLife.pdb
